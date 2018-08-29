@@ -1,4 +1,23 @@
-# nubank-csv
-Script para exportar a fatura do Nubank web app em CSV
+# Nubank - CSV
+Script para exportar os dados da fatura da versão web app do [Nubank](https://app.nubank.com.br/#/bills) em CSV.
 
-## Como usar / How to use
+Script to export invoice data from Nubank's web app to CSV.
+
+### Como usar / How to use
+**Pt-br** 
+- Acesse a fatura que deseja exportar
+- Copie o conteúdo do arquivo nubank-csv.js
+- Cole no console do seu navegador e aperte "Enter"
+
+O arquivo será baixado imediatamente
+ 
+**English**
+- Access the invoice that you want to export
+- Copy all the content of nubank-csv.js
+- Paste into your browser's console and hit "Enter"
+
+The file will be downloaded immediately
+### Estrutura do Arquivo / File Structure
+```sh
+date;description;amount
+```
