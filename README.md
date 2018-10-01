@@ -1,4 +1,4 @@
-# Nubank - CSV
+# Nubank - CSV  -- Não é mais util, Nubank implementou um botão para exportar csv \o/
 Script para exportar os dados da fatura da versão web app do [Nubank](https://app.nubank.com.br/#/bills) em CSV.
 
 Script to export invoice data from Nubank's web app to CSV.
